@@ -1,0 +1,27 @@
+{
+  "name": "api-dc",
+  "version": "0.0.1",
+  "description": "API con CRUD DC - Comics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "npx nodemon index.js",
+    "debug": "node --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "dc-comics",
+    "json"
+  ],
+  "author": "Sergio Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "pdfkit": "^0.15.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

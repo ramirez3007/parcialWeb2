@@ -1,0 +1,193 @@
+{
+  "personajes_dc": [
+    {
+      "id": 1,
+      "nombre": "Batman Actualizado",
+      "edad": 36,
+      "ciudad": "Gotham",
+      "poderes": [
+        "Inteligencia",
+        "Habilidad en combate",
+        "Tecnología avanzada"
+      ],
+      "aliados": {
+        "nombre": [
+          "Robin",
+          "Alfred",
+          "Batgirl",
+          "Catwoman"
+        ],
+        "tipo": "Humanos"
+      },
+      "enemigos": [
+        "Joker",
+        "Penguin",
+        "Two-Face",
+        "Riddler"
+      ],
+      "primera_aparicion": "Detective Comics #27",
+      "hobbies": [
+        "Entrenamiento",
+        "Investigación",
+        "Conducción",
+        "Resolución de misterios"
+      ],
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Superman",
+      "edad": 33,
+      "ciudad": "Metropolis",
+      "poderes": [
+        "Super fuerza",
+        "Vuelo",
+        "Visión de rayos X"
+      ],
+      "aliados": {
+        "nombre": [
+          "Lois Lane",
+          "Jimmy Olsen",
+          "Supergirl"
+        ],
+        "tipo": "Humanos"
+      },
+      "enemigos": [
+        "Lex Luthor",
+        "Doomsday",
+        "Brainiac"
+      ],
+      "primera_aparicion": "Action Comics #1",
+      "hobbies": [
+        "Rescatar personas",
+        "Periodismo",
+        "Volar"
+      ],
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Wonder Woman",
+      "edad": 5000,
+      "ciudad": "Themyscira",
+      "poderes": [
+        "Super fuerza",
+        "Lucha experta",
+        "Vuelo"
+      ],
+      "aliados": {
+        "nombre": [
+          "Steve Trevor",
+          "Hippolyta",
+          "Ares"
+        ],
+        "tipo": "Dioses"
+      },
+      "enemigos": [
+        "Ares",
+        "Cheetah",
+        "Circe"
+      ],
+      "primera_aparicion": "All Star Comics #8",
+      "hobbies": [
+        "Entrenamiento de combate",
+        "Diplomacia",
+        "Arte"
+      ],
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Flash",
+      "edad": 25,
+      "ciudad": "Central City",
+      "poderes": [
+        "Velocidad sobrehumana",
+        "Viaje en el tiempo",
+        "Curación acelerada"
+      ],
+      "aliados": {
+        "nombre": [
+          "Iris West",
+          "Kid Flash",
+          "Jay Garrick"
+        ],
+        "tipo": "Humanos"
+      },
+      "enemigos": [
+        "Reverse Flash",
+        "Captain Cold",
+        "Zoom"
+      ],
+      "primera_aparicion": "Flash Comics #1",
+      "hobbies": [
+        "Correr",
+        "Resolución de crímenes",
+        "Ciencia"
+      ],
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Aquaman",
+      "edad": 35,
+      "ciudad": "Atlantis",
+      "poderes": [
+        "Comunicación con animales marinos",
+        "Super fuerza",
+        "Natación sobrehumana"
+      ],
+      "aliados": {
+        "nombre": [
+          "Mera",
+          "Orm",
+          "Vulko"
+        ],
+        "tipo": "Atlantes"
+      },
+      "enemigos": [
+        "Black Manta",
+        "Ocean Master",
+        "King Shark"
+      ],
+      "primera_aparicion": "More Fun Comics #73",
+      "hobbies": [
+        "Natación",
+        "Diplomacia",
+        "Defensa de Atlantis"
+      ],
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Green Lantern (Hal Jordan)",
+      "edad": 32,
+      "ciudad": "Coast City",
+      "poderes": [
+        "Anillo de poder",
+        "Vuelo",
+        "Creación de objetos"
+      ],
+      "aliados": {
+        "nombre": [
+          "Carol Ferris",
+          "Kilowog",
+          "John Stewart"
+        ],
+        "tipo": "Green Lantern Corps"
+      },
+      "enemigos": [
+        "Sinestro",
+        "Atrocitus",
+        "Parallax"
+      ],
+      "primera_aparicion": "Showcase #22",
+      "hobbies": [
+        "Volar",
+        "Rescate espacial",
+        "Defensa del universo"
+      ],
+      "activo": true
+    }
+  ]
+}
